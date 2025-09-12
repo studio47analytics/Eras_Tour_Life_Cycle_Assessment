@@ -9,16 +9,16 @@ Full Report & Code: Google Drive Link or GitHub Repo]
 
 # Table of Contents
 
-Project Overview
-Problem Statement
-Solution Design
-Methodology
-Business Impact
-Implementation Recommendations
-Expected Benefits and Costs
-Risks and Challenges
-Next Steps
-Full Report & Code
+- Project Overview
+- Problem Statement
+- Solution Design
+- Methodology
+- Business Impact
+- Implementation Recommendations
+- Expected Benefits and Costs
+- Risks and Challenges
+- Next Steps
+- Full Report & Code
 
 ## Project Overview
 
