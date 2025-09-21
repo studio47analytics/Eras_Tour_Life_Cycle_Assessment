@@ -119,3 +119,9 @@ For questions or collaboration, please reach out:
 
 GitHub: https://github.com/studio47Analytics  
 Email: amcco.datascience@gmail.com
+
+---
+
+**Prepared by Austin McCollough | studio.47 Analytics**  
+
+---
