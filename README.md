@@ -106,16 +106,14 @@ Explore partnerships with sustainability teams (e.g., Rolls-Royce, major airline
 
 # Full Report & Code
 
-Access the complete project report, code, and analysis here:  
-[Google Drive - Taylor Swift LCA](https://drive.google.com/drive/folders/1woP1VchGFpONwi_ejhfrOYhZ-9GdjV7_?usp=sharing)
+**Access the complete project report, code, and analysis here:**  
 
-Access all original datasets and supporting resources for this project here:  
+  [Google Drive - Taylor Swift LCA](https://drive.google.com/drive/folders/1woP1VchGFpONwi_ejhfrOYhZ-9GdjV7_?usp=sharing)
 
-[Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1ZUxy-J5qt071J7XSvKBr3N3x5aH1YjlK?usp=share_link)
+**Access all original datasets and supporting resources for this project here:**  
 
-Access all original datasets and supporting resources for this project here:
+  [Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1ZUxy-J5qt071J7XSvKBr3N3x5aH1YjlK?usp=share_link)
 
-[Google Drive – Datasets & Resources]
 
 For questions or collaboration, please reach out:
 
