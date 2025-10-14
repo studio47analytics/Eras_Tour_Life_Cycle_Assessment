@@ -115,13 +115,13 @@ Explore partnerships with sustainability teams (e.g., Rolls-Royce, major airline
   [Google Drive – Datasets & Resources](https://drive.google.com/drive/folders/1ZUxy-J5qt071J7XSvKBr3N3x5aH1YjlK?usp=share_link)
 
 
-For questions or collaboration, please reach out:
-
-GitHub: https://github.com/studio47Analytics  
-Email: amcco.datascience@gmail.com
+For questions or collaboration:  
+- GitHub: [Data Wizard Aus](https://github.com/data-wizard-aus)  
+- Email: datawizard.aus@outlook.com
+- Portfolio: [https://datawizardaus.myportfolio.com/w](https://datawizardaus.myportfolio.com/w)
 
 ---
 
-**Prepared by Austin McCollough | studio.47 Analytics**  
+**Prepared by Austin McCollough**  
 
 ---
